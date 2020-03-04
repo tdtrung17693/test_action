@@ -32,7 +32,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - image: gcr.io/storied-imprint-137306/ci-cd:0.1.0
+      - image: gcr.io/cultivated-cove-234713/ci-cd:0.1.0
         name: ci-cd
         ports:
         - containerPort: 3000
