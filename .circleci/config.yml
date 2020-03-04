@@ -6,8 +6,8 @@ jobs:
     working_directory: ~/workspace
     environment:
       DEPLOYMENT_NAME: ci-cd
-      PROJECT_ID: ci-cd-217118
-      CLUSTER_NAME: ci-cd
+      PROJECT_ID: cultivated-cove-234713
+      CLUSTER_NAME: my-tdt-ci
       CLUSTER_NAME_STAG: ci-cd-stag
       CLOUDSDK_COMPUTE_ZONE: us-west1-a 
       CONTAINER_NAME: ci-cd
